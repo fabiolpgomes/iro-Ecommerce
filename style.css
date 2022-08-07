@@ -1,0 +1,37 @@
+*{
+    transition: all 1s;
+}
+
+body{
+    padding: 50px;
+    background-color: seagreen;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    width: 50px;
+}
+
+#cart{
+    background-color:salmon;
+}
+
+#cart, #items{
+    width: 50vw;
+}
+
+/* div Select a Tag*/
+/* Id have hashtags*/
+
+#two{
+    background-color: rebeccapurple;
+}
+/* Class have dots*/
+.example{
+    border: 5px dashed purple;
+    margin: 5px;
+}
