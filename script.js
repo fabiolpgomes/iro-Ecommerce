@@ -82,5 +82,4 @@ function inputChange(i, name, price,image){
 }
 
 
-
 //document.querySelector('#two').style.backgroundColor = 'blue'
